@@ -1,0 +1,12 @@
+.buttons .active {
+    font-weight: bold;
+}
+
+.panels div {
+    display: none;
+}
+
+.panels .active {
+    display: block;
+}
+
